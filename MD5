@@ -1,0 +1,10 @@
+fe95ed6c2bb03d06552cc75fc356beba *DESCRIPTION
+812e8d4f4cebf3385e1178f554c84a1a *NAMESPACE
+f08ffa35b6ce84d955c35c97c64bc307 *R/ROMI.plot.R
+ea160edb5f56b5cec59fd3cdb23a30c5 *R/create.Lexis.matrix.R
+70a50486ce824d3decd78cb82931f936 *R/readHMDformat.R
+850f5231b3579d20959233e56aa0f67e *build/partial.rdb
+14ed331ffad0bafe9d06be21abc71e65 *man/ROMI.plot.Rd
+13d1ba3cc332cc37b7148580787914db *man/ROMIplot-package.Rd
+872a11e261700588a84e055e57da21e9 *man/create.Lexis.matrix.Rd
+afc6af6b17ffe2227857e9619a3b8b1a *man/readHMDformat.Rd

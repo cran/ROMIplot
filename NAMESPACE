@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+importFrom('MortalitySmooth',Mort2Dsmooth)
+importFrom('RCurl', getURL, getCurlHandle, getCurlInfo)
+importFrom('grDevices', grey, hsv)
+importFrom('graphics', layout, par, image, grid, plot, rect, text, segments) 
+importFrom('utils', read.table, read.csv, select.list)
